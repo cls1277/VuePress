@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 node_modules
 docs/.vuepress/.cache
 docs/.vuepress/.temp
-=======
-node_modules
-docs/.vuepress/.cache
-docs/.vuepress/.temp
->>>>>>> d83266c3914ac618d61447d8721f06ebb3f60332
 dist

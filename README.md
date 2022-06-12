@@ -1,8 +1,4 @@
-cls1277
-
-cls1277
-
-cls1277
+cls1277 测试自动化部署
 
 <a href="https://github.com/TencentCloudBase/cloudbase-templates"><img src="https://main.qcloudimg.com/raw/230c115bee4300384fa557710daa2928.jpg"></a>
 

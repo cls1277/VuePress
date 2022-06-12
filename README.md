@@ -1,5 +1,3 @@
-cls1277
-
 <a href="https://github.com/TencentCloudBase/cloudbase-templates"><img src="https://main.qcloudimg.com/raw/230c115bee4300384fa557710daa2928.jpg"></a>
 
 # 云开发 VuePress 网站应用示例
